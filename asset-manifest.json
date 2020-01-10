@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myscoot/static/css/main.80fba7ae.chunk.css",
-    "main.js": "/myscoot/static/js/main.abc7c571.chunk.js",
-    "main.js.map": "/myscoot/static/js/main.abc7c571.chunk.js.map",
+    "main.js": "/myscoot/static/js/main.0e503278.chunk.js",
+    "main.js.map": "/myscoot/static/js/main.0e503278.chunk.js.map",
     "runtime-main.js": "/myscoot/static/js/runtime-main.bb6ef83a.js",
     "runtime-main.js.map": "/myscoot/static/js/runtime-main.bb6ef83a.js.map",
     "static/js/2.13b27747.chunk.js": "/myscoot/static/js/2.13b27747.chunk.js",
     "static/js/2.13b27747.chunk.js.map": "/myscoot/static/js/2.13b27747.chunk.js.map",
     "index.html": "/myscoot/index.html",
-    "precache-manifest.8e4329c78d7e29da08b8e202a26bc8ab.js": "/myscoot/precache-manifest.8e4329c78d7e29da08b8e202a26bc8ab.js",
+    "precache-manifest.ad45ae5a90813ad7b6d4d42677009284.js": "/myscoot/precache-manifest.ad45ae5a90813ad7b6d4d42677009284.js",
     "service-worker.js": "/myscoot/service-worker.js",
     "static/css/main.80fba7ae.chunk.css.map": "/myscoot/static/css/main.80fba7ae.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.bb6ef83a.js",
     "static/js/2.13b27747.chunk.js",
     "static/css/main.80fba7ae.chunk.css",
-    "static/js/main.abc7c571.chunk.js"
+    "static/js/main.0e503278.chunk.js"
   ]
 }

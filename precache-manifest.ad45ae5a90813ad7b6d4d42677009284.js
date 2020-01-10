@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c46aa6f799b756ad4a720d03647982e",
+    "revision": "80cb80d086499a4ddaccddce4937f344",
     "url": "/myscoot/index.html"
   },
   {
-    "revision": "c0894beb2b187ff2fecc",
+    "revision": "3933b259a2993324e62b",
     "url": "/myscoot/static/css/main.80fba7ae.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myscoot/static/js/2.13b27747.chunk.js"
   },
   {
-    "revision": "c0894beb2b187ff2fecc",
-    "url": "/myscoot/static/js/main.abc7c571.chunk.js"
+    "revision": "3933b259a2993324e62b",
+    "url": "/myscoot/static/js/main.0e503278.chunk.js"
   },
   {
     "revision": "07debd966bd49481dbe4",

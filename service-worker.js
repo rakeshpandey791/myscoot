@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/myscoot/precache-manifest.8e4329c78d7e29da08b8e202a26bc8ab.js"
+  "/myscoot/precache-manifest.ad45ae5a90813ad7b6d4d42677009284.js"
 );
 
 self.addEventListener('message', (event) => {
