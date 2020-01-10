@@ -1,6 +1,7 @@
 .home-slider-container {
     display: grid;
     grid-template-columns: 25% 35% 20% 20%;
+    grid-gap: 2px;
 
     .heading {
         grid-column: 1/5;
