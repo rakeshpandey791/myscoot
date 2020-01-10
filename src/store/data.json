@@ -1,0 +1,96 @@
+{
+    "popularExperience": [
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$1300",
+            "createdOn": "2020-12-09T08:08:55.917Z",
+            "location": "Hauz Khas Village",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "1.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$300",
+            "createdOn": "2020-12-09T08:08:55.917Z",
+            "location": "Saket",
+            "requestedBy": "Rakesh",
+            "imgUrl": "2.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$1200",
+            "createdOn": "2020-12-06T08:08:55.917Z",
+            "location": "Connaught Place",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "3.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$600",
+            "createdOn": "2020-12-05T08:08:55.917Z",
+            "location": "MG Road Gurgon",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "4.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$500",
+            "createdOn": "2020-12-08T08:08:55.917Z",
+            "location": "Cyber hub Gurgon",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "2.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        }
+    ],
+    "recommendedExperience": [
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$400",
+            "createdOn": "2020-12-09T08:08:55.917Z",
+            "location": "Hauz Khas Village",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "3.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$350",
+            "createdOn": "2020-12-09T08:08:55.917Z",
+            "location": "Hauz Khas Village",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "4.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$200",
+            "createdOn": "2020-12-06T08:08:55.917Z",
+            "location": "Saket",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "1.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$300",
+            "createdOn": "2020-12-05T08:08:55.917Z",
+            "location": "Hauz Khas Village",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "2.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        },
+        {
+            "name": "Myscoot Social Movie Night",
+            "price": "$300",
+            "createdOn": "2020-12-08T08:08:55.917Z",
+            "location": "Hauz Khas Village",
+            "requestedBy": "Riya Gupta",
+            "imgUrl": "4.jpeg",
+            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+        }
+    ]
+}

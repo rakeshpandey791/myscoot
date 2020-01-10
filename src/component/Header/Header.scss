@@ -1,0 +1,43 @@
+.header {
+  display: grid;
+  grid-template-columns: 65% 12% 7% 7% 7%;
+  background-color: #191818;
+  color: #ffffff;
+  padding: 15px;
+  position: sticky;
+  top: 0px;
+
+  div {
+    cursor: pointer;
+    padding: 5px;
+    text-align: center;
+    &:hover{
+      background: rgba(255,255,255,0.1);
+      color: #fff;
+      border-radius: 2px;
+    }
+  }
+
+  .logo {
+    padding-left: 2%;
+    font-size: 22px;
+    width: 100px;
+  }
+
+  .login{
+    border: 1px solid #2196F3;
+        color: dodgerblue;
+        background-color: rgba(0,0,0, 0.1);
+        margin-left: 5%;
+        &:hover {
+          background-color: #2196F3;
+          color: #ffffff;
+        }
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .header {
+
+  }
+}

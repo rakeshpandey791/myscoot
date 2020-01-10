@@ -1,0 +1,27 @@
+.slider-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 2%;
+    
+    .title {
+        .city {
+            color: orange;
+            text-decoration: underline;
+        }
+    }
+    .experience-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .show-all-link {
+        width: 110px;
+        border: 1px solid orange;
+        padding: 5px;
+        border-radius: 2px;
+        color: orange;
+        cursor: pointer;
+        margin-top: 2%;
+    }
+}
+

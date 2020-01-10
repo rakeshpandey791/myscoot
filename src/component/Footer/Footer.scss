@@ -1,0 +1,59 @@
+@mixin btn(){
+    padding: 7px;
+    width: 100px;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+.blank-space {
+  height: 7vh;
+  background-color: #696969;
+}
+.footer {
+      display: flex;
+      background-color: #696969;
+      color: #ffffff;
+      position: fixed;
+      bottom: 0px;
+      width: 100%;
+      align-items: center;
+      padding: 10px;
+      z-index: 1;
+
+      .footer-msg {
+        width: 70%;
+        padding-left: 5%;
+        font-size: 20px;
+      }
+      .sign-up {
+        width: 10%;
+      }
+      .login {
+        width: 15%;
+      }
+
+      .btn-signup {
+        @include btn();
+        &:hover {
+          background-color: #cacbcd;
+        }
+      }
+
+      .btn-login {
+        @include btn();
+        border: 1px solid #2196F3;
+        color: dodgerblue;
+        background-color: rgba(0,0,0, 0.1);
+        &:hover {
+          background-color: #2196F3;
+          color: #ffffff;
+        }
+      }
+    }
+
+
+@media screen and (max-width: 720px) {
+  .footer {
+
+  }
+}

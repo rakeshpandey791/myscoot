@@ -1,0 +1,23 @@
+.hiw-container {
+    background-color: #ffffff;
+    display: grid;
+    grid-gap: 1px;
+    grid-template-columns: 5% 30% 30% 30% 5%;
+
+    .hiw-box {
+        text-align: center;
+        padding: 8% 8% 10% 8%;
+        margin-bottom: 1%;
+        .icon {
+            font-size: 50px;
+        }
+    }
+
+    .title {
+        grid-column: 1/6;
+        padding-left: 5%;
+        h1{
+            margin: 10px;
+        }
+    }
+}
