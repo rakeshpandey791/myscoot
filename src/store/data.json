@@ -7,7 +7,7 @@
             "location": "Hauz Khas Village",
             "requestedBy": "Riya Gupta",
             "imgUrl": "1.jpeg",
-            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+            "highLights": ["Outdoor Movie", "Beer pong"]
         },
         {
             "name": "Myscoot Social Movie Night",
@@ -16,7 +16,7 @@
             "location": "Saket",
             "requestedBy": "Rakesh",
             "imgUrl": "2.jpeg",
-            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+            "highLights": ["Beer pong", "Food"]
         },
         {
             "name": "Myscoot Social Movie Night",
@@ -25,7 +25,7 @@
             "location": "Connaught Place",
             "requestedBy": "Riya Gupta",
             "imgUrl": "3.jpeg",
-            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+            "highLights": ["Outdoor Movie", "Food"]
         },
         {
             "name": "Myscoot Social Movie Night",
@@ -72,7 +72,7 @@
             "location": "Saket",
             "requestedBy": "Riya Gupta",
             "imgUrl": "1.jpeg",
-            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+            "highLights": ["Outdoor Movie", "Beer pong"]
         },
         {
             "name": "Myscoot Social Movie Night",
@@ -81,7 +81,7 @@
             "location": "Hauz Khas Village",
             "requestedBy": "Riya Gupta",
             "imgUrl": "2.jpeg",
-            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+            "highLights": ["Outdoor Movie", "Food"]
         },
         {
             "name": "Myscoot Social Movie Night",
@@ -90,7 +90,7 @@
             "location": "Hauz Khas Village",
             "requestedBy": "Riya Gupta",
             "imgUrl": "4.jpeg",
-            "highLights": ["Outdoor Movie", "Beer pong", "Food"]
+            "highLights": ["Beer pong", "Food"]
         }
     ]
 }

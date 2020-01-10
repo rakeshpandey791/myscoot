@@ -3,6 +3,9 @@ import moment from "moment";
 import './SliderItem.scss';
 
 const SliderItem = (props) => {
+    const highLights = props.data.highLights.reduce((str, item, index, arr) => {
+        return index === arr.length -1 ? str + item : str + item + ' | ';
+    }, '');
     return (
         <div className="items">
             <img src={process.env.PUBLIC_URL + '/' + props.data.imgUrl} className="img" alt={props.data.name}></img>
@@ -16,7 +19,7 @@ const SliderItem = (props) => {
                         <div className="border-bottom">
                             <div><small>Requested by {props.data.requestedBy}</small></div>
                             <div className="name">My Scoot Movie Night</div>
-                            <div><small>Highlights Outdoor Movie | Beer pong | Food</small></div>
+                            <div><small>Highlights {highLights}</small></div>
                         </div>
                     </div>
                     <div className="img-details">
